@@ -9,3 +9,4 @@ como Cientista de Dados.
 - Jogo Poker nas horas vagas
 - Gosto de jogar futebol
 - Já fiz linguagem C, C++ e Cliper
+- Não sou bom em jogos eletrônicos
